@@ -5,3 +5,8 @@
 2. Git bash
 3. VS Code
 4. MLOPs Tool: https://www.evidentlyai.com/
+
+
+
+
+
